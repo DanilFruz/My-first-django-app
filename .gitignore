@@ -10,3 +10,4 @@ __pycache__/
 #django stuff
 db.sqlite3
 media/
+templates-for-Django-4-course-Home
